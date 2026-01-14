@@ -74,14 +74,3 @@ $$\hat{x} = \arg\min_x \left( \underbrace{\frac{1}{2} \|x - x_{AI}\|_2^2}_{\text
 * **Term 2:** The **Total Variation (TV)** norm penalizes jagged, non-biological noise, enforcing smoothness consistent with volume conduction physics.
 
 ---
-
-## 💻 Installation & Setup
-
-### Prerequisites
-* Python 3.8+
-* RAM: 8GB+ (16GB Recommended)
-
-### Step 1: Clone Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/NeuroHologram.git](https://github.com/YOUR_USERNAME/NeuroHologram.git)
-cd NeuroHologram
